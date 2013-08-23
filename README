@@ -1,0 +1,6 @@
+This is one of my previous homework assignments. 
+
+Some of my assignments are 100% done from scratch, while others are based off of a skeleton I was provided. 
+They might be useful for some of you out there, but their real intent is to document my progress... and hopefully look back and feel proud at some point?
+
+This one used binary search trees, string tokenizers, file reader to evaluate and reformat arithmetic expression. Reformat would be in postfix. Add parenthesis to larger expressions or else it wouldn't compute. For example: ((4*4)-20) would compute the right value, but (4*4)-20 would only compute what is in the parenthesis. This could be verified through the print postfix option. In order to do calculations, you must first enter a numerical value associated with the options provided when the program runs. Once you choose "enter new expression" you will be allowed to enter the expression. 
